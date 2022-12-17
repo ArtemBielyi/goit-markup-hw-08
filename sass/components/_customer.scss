@@ -1,4 +1,4 @@
-.customer {
+.customer__section {
   padding-top: 60px;
   padding-bottom: 60px;
 
@@ -36,8 +36,6 @@
 
   @media screen and (min-width: 1200px) {
     flex-wrap: nowrap;
-
-    padding-bottom: 94px;
   }
 }
 
